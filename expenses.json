@@ -8,5 +8,15 @@
         "description": "Coffee",
         "amount": 4.8,
         "category": "Food"
+    },
+    {
+        "description": "Yusufun emegi",
+        "amount": 31.0,
+        "category": "Employment"
+    },
+    {
+        "description": "Nevzatin Geceligi",
+        "amount": 12.69,
+        "category": "Entertainment"
     }
 ]
